@@ -1,11 +1,11 @@
 # IntelliJ IDEA
 .idea/
+*.iml
 
 # Build output
 out/
+production/
+*.class
 
 # macOS
 .DS_Store
-
-# IntelliJ module files
-*.imlproduction/
