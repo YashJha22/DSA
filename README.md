@@ -46,6 +46,7 @@ DSA-Java/
 │       └── OddOrEven.java
 ├── src/
 │   ├── Arrays/
+│   │   └── 169-majority-element/
 │   ├── Java_Concept/
 │   ├── Sandbox/
 │   ├── SlidingWindow/
@@ -71,6 +72,7 @@ DSA-Java/
 | 3 | Fizz Buzz | `src/Arrays/FizzBuzz.java` |
 | 4 | Number of Steps to Reduce a Number to Zero | `src/Arrays/NumberOfStepsToReduceANumberToZero.java` |
 | 5 | Richest Customer Wealth | `src/Arrays/RichestCustomerWealth.java` |
+| 6 | Majority Element | [`Solution.java`](src/Arrays/169-majority-element/Solution.java) |
 
 ### Two Pointers
 
