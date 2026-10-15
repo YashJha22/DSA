@@ -1,0 +1,19 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "C++: Build and Run Active File",
+      "type": "shell",
+      "command": "/bin/bash",
+      "args": [
+        "-c",
+        "/usr/bin/clang++ -std=c++17 -Wall -Wextra -g \"${file}\" -o /tmp/cpp-active && /tmp/cpp-active"
+      ],
+      "problemMatcher": "$gcc",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    }
+  ]
+}
