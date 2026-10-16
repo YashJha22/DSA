@@ -9,3 +9,14 @@ production/
 
 # macOS
 .DS_Store
+
+# C++ build artifacts
+cpp/basics/Add
+cpp/basics/Sum1toN
+cpp/basics/even
+cpp/basics/sub
+cpp/basics/function
+cpp/basics/input
+*.dSYM/
+cpp/function
+cpp/input
