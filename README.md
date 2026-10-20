@@ -1,64 +1,69 @@
 # Data Structures and Algorithms
 
 My DSA journey started with Java and continues with C++.
-Existing Java solutions are preserved. C++ foundation exercises are
-tracked separately from DSA problems.
+
+> **A note on my journey:** I've solved 70+ DSA problems in Java, but
+> only 19 Java solution files are documented in this repository.
+> I started tracking my solutions here later, so this repository does
+> not represent every problem I've solved.
 
 ## Progress
 
-| Category | Tracked files |
+| Category | Progress |
 |---|---:|
-| Java solutions | 19 |
-| C++ foundation exercises | 8 |
-| Other C++ source files | 0 |
+| Java DSA | 70+ problems solved overall; 19 Java files in this repository |
+| C++ foundation | Exercises listed below |
+| C++ DSA | Tracked separately as problems are solved |
 
-These are file counts, not guaranteed counts of unique DSA questions.
-Multiple implementations of the same problem may exist.
+The Java file count is not the number of unique questions: some files
+contain alternate implementations of the same problem.
 
-## Java — Existing Work
+## Java — DSA Problems
 
-Listed in the order each file first appears in the available Git history.
+My existing Java work is preserved. Where multiple files represent the
+same problem, they are grouped under one entry.
 
-- [Segregate0sAnd1s](src/TwoPointers/Segregate0sAnd1s.java)
-- [RemoveDuplicates](src/TwoPointers/RemoveDuplicates.java)
-- [RemoveDuplicatesFromSortedList](src/TwoPointers/RemoveDuplicatesFromSortedList.java)
-- [valid palindrome](src/TwoPointers/125-valid-palindrome/valid-palindrome.java)
-- [contains duplicate](src/TwoPointers/217-contains-duplicate/contains-duplicate.java)
-- [TwoD array](src/Java_Concept/TwoD_Arrays/TwoD_array.java)
-- [Solution](src/SlidingWindow/1004-max-consecutive-ones-iii/Solution.java)
-- [solution](src/SlidingWindow/concatenation-of-array/solution.java)
-- [ConcatenationOfArray](src/Arrays/ConcatenationOfArray.java)
-- [solution](src/SlidingWindow/number-of-steps-to-reduce-a-number-to-zero/solution.java)
-- [RunningSumOf1DArray](src/Arrays/RunningSumOf1DArray.java)
-- [FizzBuzz](src/Arrays/FizzBuzz.java)
-- [NumberOfStepsToReduceANumberToZero](src/Arrays/NumberOfStepsToReduceANumberToZero.java)
-- [RichestCustomerWealth](src/Arrays/RichestCustomerWealth.java)
-- [SumOfFirstNNaturalNumbers](Basic/SumOfFirstNNaturalNumbers.java)
-- [OddOrEven](Basic/maths/OddOrEven.java)
-- [RemoveElement](src/TwoPointers/RemoveElement.java)
+- **Segregate 0s and 1s** — [`src/TwoPointers/Segregate0sAnd1s.java`](src/TwoPointers/Segregate0sAnd1s.java)
+- **Remove Duplicates from Sorted Array** — [`src/TwoPointers/RemoveDuplicates.java`](src/TwoPointers/RemoveDuplicates.java)
+- **Remove Duplicates from Sorted List** — [`src/TwoPointers/RemoveDuplicatesFromSortedList.java`](src/TwoPointers/RemoveDuplicatesFromSortedList.java)
+- **Valid Palindrome** — [`src/TwoPointers/125-valid-palindrome/valid-palindrome.java`](src/TwoPointers/125-valid-palindrome/valid-palindrome.java)
+- **Contains Duplicate** — [`src/TwoPointers/217-contains-duplicate/contains-duplicate.java`](src/TwoPointers/217-contains-duplicate/contains-duplicate.java)
+- **Remove Element** — [`src/TwoPointers/RemoveElement.java`](src/TwoPointers/RemoveElement.java)
+- **Two-Dimensional Array Practice** — [`src/Java_Concept/TwoD_Arrays/TwoD_array.java`](src/Java_Concept/TwoD_Arrays/TwoD_array.java)
+- **Max Consecutive Ones III** — [`src/SlidingWindow/1004-max-consecutive-ones-iii/Solution.java`](src/SlidingWindow/1004-max-consecutive-ones-iii/Solution.java)
+- **Concatenation of Array** — [`src/Arrays/ConcatenationOfArray.java`](src/Arrays/ConcatenationOfArray.java) · [`src/SlidingWindow/concatenation-of-array/solution.java`](src/SlidingWindow/concatenation-of-array/solution.java)
+- **Number of Steps to Reduce a Number to Zero** — [`src/Arrays/NumberOfStepsToReduceANumberToZero.java`](src/Arrays/NumberOfStepsToReduceANumberToZero.java) · [`src/SlidingWindow/number-of-steps-to-reduce-a-number-to-zero/solution.java`](src/SlidingWindow/number-of-steps-to-reduce-a-number-to-zero/solution.java)
+- **Running Sum of 1D Array** — [`src/Arrays/RunningSumOf1DArray.java`](src/Arrays/RunningSumOf1DArray.java)
+- **FizzBuzz** — [`src/Arrays/FizzBuzz.java`](src/Arrays/FizzBuzz.java)
+- **Richest Customer Wealth** — [`src/Arrays/RichestCustomerWealth.java`](src/Arrays/RichestCustomerWealth.java)
+- **Majority Element** — [`src/Arrays/169-majority-element/Solution.java`](src/Arrays/169-majority-element/Solution.java)
+- **Sum of First N Natural Numbers** — [`Basic/SumOfFirstNNaturalNumbers.java`](Basic/SumOfFirstNNaturalNumbers.java)
+- **Odd or Even** — [`Basic/maths/OddOrEven.java`](Basic/maths/OddOrEven.java)
+
+### Other Java Files
+
 - [HelloWorld](src/Sandbox/HelloWorld.java)
-- [Solution](src/Arrays/169-majority-element/Solution.java)
 
 ## C++ — Foundation
 
-Exercises completed to build C++ fundamentals. These do not count as
-DSA problems.
+These exercises helped me build C++ fundamentals. They are not counted
+as DSA interview questions.
 
 - [Array sum using vector](cpp/array/array_one.cpp)
 - [Addition](cpp/basics/Add.cpp)
 - [Sum of first N natural numbers](cpp/basics/Sum1toN.cpp)
 - [Even-number counter](cpp/basics/even.cpp)
-- [Hello World / compilation](cpp/basics/hello.cpp)
+- [Hello World and compilation](cpp/basics/hello.cpp)
 - [Subtraction](cpp/basics/sub.cpp)
 - [Functions](cpp/function.cpp)
 - [Input and output](cpp/input.cpp)
 
-## C++ — DSA Problems
+## C++ — DSA Problems Solved
 
-Record actual DSA questions here as they are solved. Keep foundation
-exercises out of this section.
+Actual C++ DSA questions will be recorded here as they are solved,
+with links to their source files. Foundation exercises stay separate.
 
-_No additional C++ DSA files identified by this script._
+_No C++ DSA problems are listed here yet._
 
 ## Languages and Tools
 
@@ -67,4 +72,3 @@ _No additional C++ DSA files identified by this script._
 - IntelliJ IDEA
 - Apple Clang (`clang++`)
 - Git and GitHub
-
