@@ -63,7 +63,7 @@ as DSA interview questions.
 Actual C++ DSA questions will be recorded here as they are solved,
 with links to their source files. Foundation exercises stay separate.
 
-_No C++ DSA problems are listed here yet._
+- **Two Sum** — [`cpp/hashmap/two_sum.cpp`](cpp/hashmap/two_sum.cpp)
 
 ## Languages and Tools
 
