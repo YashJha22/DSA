@@ -64,6 +64,7 @@ Actual C++ DSA questions will be recorded here as they are solved,
 with links to their source files. Foundation exercises stay separate.
 
 - **Two Sum** — [`cpp/hashmap/two_sum.cpp`](cpp/hashmap/two_sum.cpp)
+- **First Unique Character in a String** — [`cpp/hashmap/first_unique_character.cpp`](cpp/hashmap/first_unique_character.cpp)
 
 ## Languages and Tools
 
