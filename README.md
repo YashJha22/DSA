@@ -66,6 +66,7 @@ with links to their source files. Foundation exercises stay separate.
 - **Two Sum** — [`cpp/hashmap/two_sum.cpp`](cpp/hashmap/two_sum.cpp)
 - **First Unique Character in a String** — [`cpp/hashmap/first_unique_character.cpp`](cpp/hashmap/first_unique_character.cpp)
 - **Ransom Note** — [`cpp/hashmap/ransom_note.cpp`](cpp/hashmap/ransom_note.cpp)
+- **Remove Duplicates from Sorted Array** — [`cpp/two_pointers/remove_duplicates.cpp`](cpp/two_pointers/remove_duplicates.cpp)
 
 ## Languages and Tools
 
