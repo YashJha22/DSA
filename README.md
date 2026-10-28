@@ -68,6 +68,7 @@ with links to their source files. Foundation exercises stay separate.
 - **Ransom Note** — [`cpp/hashmap/ransom_note.cpp`](cpp/hashmap/ransom_note.cpp)
 - **Remove Duplicates from Sorted Array** — [`cpp/two_pointers/remove_duplicates.cpp`](cpp/two_pointers/remove_duplicates.cpp)
 - **Two Sum II — Input Array Is Sorted** — [`cpp/two_pointers/two_sum_ii.cpp`](cpp/two_pointers/two_sum_ii.cpp)
+- **Valid Palindrome** — [`cpp/two_pointers/valid_palindrome.cpp`](cpp/two_pointers/valid_palindrome.cpp)
 
 ## Languages and Tools
 
